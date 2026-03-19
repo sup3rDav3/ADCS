@@ -7,6 +7,8 @@ A command-line reference tool for Active Directory Certificate Services (AD CS) 
 ---
 
 ![Main Menu](screenshot.png)
+<img width="729" height="535" alt="image" src="https://github.com/user-attachments/assets/7001aea0-19cb-4732-9d1f-dc71754e2d31" />
+
 
 ---
 
